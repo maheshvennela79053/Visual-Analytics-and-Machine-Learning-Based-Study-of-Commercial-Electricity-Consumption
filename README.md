@@ -53,5 +53,5 @@ This project applies machine learning and data visualization techniques to analy
 - Deep learning approaches for energy analytics
 
 ## 👤 Author
-*Your Name*  
-*University / Institution*
+V.Mahesh 
+Lovely Professional University
